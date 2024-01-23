@@ -1,12 +1,11 @@
 
 ## Obrazki
-![Jakiś losowy kotek](https://placekitten.com/600/400)
 
 ![kotek](koteknastepika.jpg)
 
-<img src="https://placekitten.com/400/600" alt="Zdjecie z placekitten.com">
+<img src="https://placekitten.com/500/600" alt="Zdjecie z placekitten.com">
 <a href="https://placekitten.com/" target="_blank" >
-<img src="https://placekitten.com/400/600" alt="kotek z odnosnikiem"> 
+<img src="https://placekitten.com/500/600" alt="kotek z odnosnikiem"> 
 </a>
 <img src="./html_zdj.png" alt="Zdjecie z dysku">
 
