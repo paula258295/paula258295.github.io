@@ -9,9 +9,11 @@ img {
   /* Stylowanie tabel */
   table {
     width: 100%;
+    font-weight: bold;
+    color: #8597e0;
     border-collapse: collapse;
     margin-bottom: 16px;
-    border-color: lightblue;
+    border-color: lightgreen;
   }
   
   th, td {
@@ -37,7 +39,7 @@ img {
   
   /* Stylowanie nagłówków */
   h2 {
-    color: #3b5cdd;
+    color: #8597e0;
     text-decoration: dashed;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border-bottom: 2px solid #333;
