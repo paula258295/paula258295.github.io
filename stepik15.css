@@ -14,18 +14,17 @@ img {
   }
   
   th, td {
-    border: 1px solid #ddd;
-    border-color: rgb(28, 2, 12);
+    border: 1px solid #823d9e;
     padding: 8px;
     text-align: left;
   }
   
   th {
-    background-color: rgb(213, 181, 195); /* Kolor tła nagłówków */
+    background-color: #d7a8ea; /* Kolor tła nagłówków */
     color: #5e0671; /* Kolor napisów w nagłówkach */
   }
   td {
-    background-color: #ebb7c7; /* Kolor tła komórek */
+    background-color: #ebd9df; /* Kolor tła komórek */
     color: #a40c04; /* Kolor napisów w komórkach */
   }
   
