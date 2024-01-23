@@ -13,50 +13,37 @@
 
 ![kotek](koteknastepika.jpg)
 
-<header>
-        <h1>Pulina Krajnik</h1>
-        <h2>Inforamtyka</h2>
-        <h3>Jestem na UG</h3>
-        <h3><a href="https://ug.edu.pl">Strona UG</a></h3>
-        <h4>Grupa 2</h4>
-    </header>
-    <img src="https://placekitten.com/200/300" alt="Zdjecie z placekitten.com">
-    <a href="https://placekitten.com/" target="_blank" >
-        <img src="https://placekitten.com/200/299" alt="kotek z odnosnikiem"> 
-    </a>
-    <h2>Lubię kotki</h2>
-    <img src="./html_zdj.png" alt="Zdjecie z dysku">
-    <dl>
-        <dt>2011-2019</dt>
-        <dd>Szkoła Podstawowa z Oddziałami Integracyjnymi nr 10 w Słupsku</dd>
-        <dt>2019-2023</dt>
-        <dd>II Liceum ogólnokształcące w Słupsku</dd>
-    </dl>
+<img src="https://placekitten.com/200/300" alt="Zdjecie z placekitten.com">
+<a href="https://placekitten.com/" target="_blank" >
+<img src="https://placekitten.com/200/299" alt="kotek z odnosnikiem"> 
+</a>
+<img src="./html_zdj.png" alt="Zdjecie z dysku">
+
+<ul>
+<li>HTML</li>
     <ul>
-        <li>HTML</li>
-            <ul>
-                <li><a href="https://www.w3schools.com/html/">w3schools</a></li>
-                <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">mdn web docs</a></li>
-            </ul>
+        <li><a href="https://www.w3schools.com/html/">w3schools</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">mdn web docs</a></li>
     </ul>
-    <ul>
-        <li>CSS</li>
-        <ul>
-            <li><a href="https://www.w3schools.com/css/">w3schools</a></li>
-            <li><a href="https://cssdb.org/">what’s next for CSS?</a></li>
-            <li><a href="https://css-tricks.com/">css tricks</a></li>
-        </ul>
-    </ul>
-    <ul>
-        <li>SCSS</li>
-        <ul>
-            <li><a href="https://sass-lang.com/documentation/">sass documentation</a></li>
-        </ul>
-    </ul>
-    <ul>
-        <li><a href="https://caniuse.com/">Can I use?</a></li>
-    </ul>
-    <h2>Tabela Encji Znakowych HTML</h2>
+</ul>
+<ul>
+<li>CSS</li>
+<ul>
+    <li><a href="https://www.w3schools.com/css/">w3schools</a></li>
+    <li><a href="https://cssdb.org/">what’s next for CSS?</a></li>
+    <li><a href="https://css-tricks.com/">css tricks</a></li>
+</ul>
+</ul>
+<ul>
+<li>SCSS</li>
+<ul>
+    <li><a href="https://sass-lang.com/documentation/">sass documentation</a></li>
+</ul>
+</ul>
+<ul>
+<li><a href="https://caniuse.com/">Can I use?</a></li>
+</ul>
+<h2>Tabela Encji Znakowych HTML</h2>
 
   <table>
         <tr>
