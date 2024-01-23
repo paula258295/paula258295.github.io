@@ -13,13 +13,13 @@ img {
   }
   
   th, td {
-    border: 1px solid #380f48;
+    border: 3px solid #380f48;
     padding: 8px;
     text-align: left;
   }
   
   th {
-    background-color: #d7a8ea; /* Kolor tła nagłówków */
+    background-color: #bfa0c3; /* Kolor tła nagłówków */
     color: #5e0671; /* Kolor napisów w nagłówkach */
   }
   td {
@@ -31,6 +31,7 @@ img {
   ul {
     list-style-type: none;
     padding: 0;
+    color: red;
     margin-bottom: 16px;
   }
   
