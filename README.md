@@ -10,3 +10,5 @@
 
 ## Obrazek
 ![Jakiś losowy kotek](https://placekitten.com/300/200)
+
+![kotek](koteknastepika.jpg)
