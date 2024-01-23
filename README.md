@@ -6,7 +6,6 @@
 <img src="https://placekitten.com/1000/500" alt="Zdjecie z placekitten.com">
 <a href="https://placekitten.com/" target="_blank" >
 </a>
-<img src="./html_zdj.png" alt="Zdjecie z dysku">
 
 <ul>
 <li>HTML</li>
