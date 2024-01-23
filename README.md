@@ -10,3 +10,23 @@
 
 ## Obrazek
 ![Jakiś losowy kotek](https://placekitten.com/300/200)
+
+```css
+/* Stylowanie tabeli */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+/* Stylowanie obrazka */
+img {
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+}```
