@@ -23,7 +23,7 @@ img {
     color: #5e0671; /* Kolor napisów w nagłówkach */
   }
   td {
-    background-color: #ebd9df; /* Kolor tła komórek */
+    background-color: rgb(228, 220, 224); /* Kolor tła komórek */
     color: #a40c04; /* Kolor napisów w komórkach */
   }
   
