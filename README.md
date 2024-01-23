@@ -1,6 +1,5 @@
-# Moja stronka
 
-## Obrazek
+## Obrazki
 ![Jakiś losowy kotek](https://placekitten.com/300/200)
 
 ![kotek](koteknastepika.jpg)
@@ -88,9 +87,5 @@
 <p>Phasellus id turpis nec libero venenatis blandit vel id ipsum. Nam et pellentesque sem. Aenean hendrerit nec ipsum nec dapibus. In hac habitasse platea dictumst.</p>
 <p>Ut ultrices bibendum lacus, vel sollicitudin tortor facilisis vel. Vivamus euismod eleifend diam, id fringilla eros. Duis condimentum vel purus nec dapibus.</p>
 <p>Fusce laoreet, leo non feugiat sagittis, libero felis feugiat felis, ac viverra est orci vel justo. In hac habitasse platea dictumst. Fusce quis libero ut nulla malesuada malesuada.</p>
-<footer>
-    <p>email: </p>
-    <address>
-        <a href="paulina.krajnik04@gmail.com">paulina.krajnik04@gmail.com</a>
-    </address>
-</footer>
+<link rel="stylesheet" type="text/css" href="style.css">
+
